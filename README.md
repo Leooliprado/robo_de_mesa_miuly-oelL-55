@@ -42,6 +42,8 @@ git clone https://github.com/Leooliprado/robo_de_mesa_miuly-oelL-55.git
 
 ![Imagens de Demonstração](https://github.com/Leooliprado/robo_de_mesa_miuly-oelL-55/blob/main/img/arduino-dht22-sensor-wiring-diagram.jpg)
 
+![Imagens de Demonstração](https://github.com/Leooliprado/robo_de_mesa_miuly-oelL-55/blob/main/img/LDR-Light-Sensor-Arduino-Tutorial.png)
+
 ### Esquema em Texto:
 
 **Botão:**
