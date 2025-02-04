@@ -31,12 +31,11 @@ git clone https://github.com/Leooliprado/robo_de_mesa_miuly-oelL-55.git
 
 ## Imagens de Demonstração
 
-![Imagens de Demonstração](https://github.com/Leooliprado/robo_de_mesa_miuly-oelL-55/blob/main/img/1.jpeg)
-![Imagens de Demonstração](https://github.com/Leooliprado/robo_de_mesa_miuly-oelL-55/blob/main/img/2.jpeg)
-![Imagens de Demonstração](https://github.com/Leooliprado/robo_de_mesa_miuly-oelL-55/blob/main/img/3.jpeg)
-![Imagens de Demonstração](https://github.com/Leooliprado/robo_de_mesa_miuly-oelL-55/blob/main/img/4.jpeg)
-![Imagens de Demonstração](https://github.com/Leooliprado/robo_de_mesa_miuly-oelL-55/blob/main/img/5.jpeg)
-
+<img src="https://github.com/Leooliprado/robo_de_mesa_miuly-oelL-55/blob/main/img/1.jpeg" width="300">
+<img src="https://github.com/Leooliprado/robo_de_mesa_miuly-oelL-55/blob/main/img/2.jpeg" width="300">
+<img src="https://github.com/Leooliprado/robo_de_mesa_miuly-oelL-55/blob/main/img/3.jpeg" width="300">
+<img src="https://github.com/Leooliprado/robo_de_mesa_miuly-oelL-55/blob/main/img/4.jpeg" width="300">
+<img src="https://github.com/Leooliprado/robo_de_mesa_miuly-oelL-55/blob/main/img/5.jpeg" width="300">
 ---
 
 ## Esquema Elétrico
