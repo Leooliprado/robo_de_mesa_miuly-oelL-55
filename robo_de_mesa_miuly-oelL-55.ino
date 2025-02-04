@@ -1,6 +1,6 @@
 /*robô de mesa miuly - oelL-55.linguagem utilizada c++
   
-  versão: 2.3@
+  versão: 3.0@
 
   criado por: Leonardo de Oliveira Prado
   Instagram: arduino2.0tecnologico
