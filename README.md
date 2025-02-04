@@ -37,7 +37,7 @@ git clone https://github.com/Leooliprado/robo_de_mesa_miuly-oelL-55.git
 <img src="https://github.com/Leooliprado/robo_de_mesa_miuly-oelL-55/blob/main/img/4.jpeg" width="300">
 <img src="https://github.com/Leooliprado/robo_de_mesa_miuly-oelL-55/blob/main/img/5.jpeg" width="300">
 
-[Assista ao vídeo](https://github.com/Leooliprado/robo_de_mesa_miuly-oelL-55/blob/main/img/20250204_134700.mp4)
+[Assista ao vídeo](https://youtu.be/MWEa6FhhDA4)
 ---
 
 ## Esquema Elétrico
