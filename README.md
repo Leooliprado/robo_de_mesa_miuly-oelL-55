@@ -31,17 +31,17 @@ git clone https://github.com/Leooliprado/robo_de_mesa_miuly-oelL-55.git
 
 ## Imagens de Demonstração
 
-https://github.com/Leooliprado/robo_de_mesa_miuly-oelL-55/blob/main/img/1.jpeg
-https://github.com/Leooliprado/robo_de_mesa_miuly-oelL-55/blob/main/img/2.jpeg
-https://github.com/Leooliprado/robo_de_mesa_miuly-oelL-55/blob/main/img/3.jpeg
-https://github.com/Leooliprado/robo_de_mesa_miuly-oelL-55/blob/main/img/4.jpeg
-https://github.com/Leooliprado/robo_de_mesa_miuly-oelL-55/blob/main/img/5.jpeg
+![Imagens de Demonstração](https://github.com/Leooliprado/robo_de_mesa_miuly-oelL-55/blob/main/img/1.jpeg)
+![Imagens de Demonstração](https://github.com/Leooliprado/robo_de_mesa_miuly-oelL-55/blob/main/img/2.jpeg)
+![Imagens de Demonstração](https://github.com/Leooliprado/robo_de_mesa_miuly-oelL-55/blob/main/img/3.jpeg)
+![Imagens de Demonstração](https://github.com/Leooliprado/robo_de_mesa_miuly-oelL-55/blob/main/img/4.jpeg)
+![Imagens de Demonstração](https://github.com/Leooliprado/robo_de_mesa_miuly-oelL-55/blob/main/img/5.jpeg)
 
 ---
 
 ## Esquema Elétrico
 
-https://github.com/Leooliprado/robo_de_mesa_miuly-oelL-55/blob/main/img/arduino-dht22-sensor-wiring-diagram.jpg
+![Imagens de Demonstração](https://github.com/Leooliprado/robo_de_mesa_miuly-oelL-55/blob/main/img/arduino-dht22-sensor-wiring-diagram.jpg)
 
 ### Esquema em Texto:
 
