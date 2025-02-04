@@ -147,9 +147,13 @@ void setup() {
   pinMode(luminosidade, INPUT);
   pinMode(pinBotao, INPUT_PULLUP);
 
+  int seed = analogRead(A1) + millis(); // Soma ruído com tempo de boot
+  randomSeed(seed);
+
   attachInterrupt(digitalPinToInterrupt(pinBotao), botaoAcionado, RISING);  //INTERRUPÇÃOES //APERTAR O BOTÃO
 
   dht.begin();
+  Serial.begin(9600);
   Serial.println("Usando o Sensor DHT");
   sensor_t sensor;
 
@@ -221,12 +225,13 @@ void loop() {
       lcd.print(umidade);
       lcd.print(" %");
     }
-    delay(2000);  // Pequeno delay para evitar leituras seguidas
+    delay(4000);  // Pequeno delay para evitar leituras seguidas
   }
 
 
   if (analogRead(luminosidade) > 10) {  //SE A LUMINOSIDADE FOR MAIR QUE 15 ROBO ACORDADO (LIGADO)
-    int sorteio = random(1, 20 + 1);
+    int sorteio = random(1, 21);
+    
     switch (sorteio) {
 
       case 1:  // SORTEIA AS ANIMAÇÕES (BOBO)
