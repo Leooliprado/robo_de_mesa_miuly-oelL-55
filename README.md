@@ -17,7 +17,6 @@ O **Miuly-OelL-55** é um robô de mesa interativo projetado para trazer mais di
 
 Se você procura um robô divertido e funcional para sua mesa, o **Miuly-OelL-55** é a escolha perfeita! ✨
 
-
 ## Criador
 Este projeto foi desenvolvido por **Leonardo Prado**.
 
@@ -28,5 +27,33 @@ Para clonar este repositório, utilize o seguinte comando:
 git clone https://github.com/Leooliprado/robo_de_mesa_miuly-oelL-55.git
 ```
 
+---
 
+## Imagens de Demonstração
+
+https://github.com/Leooliprado/robo_de_mesa_miuly-oelL-55/blob/main/img/1.jpeg
+https://github.com/Leooliprado/robo_de_mesa_miuly-oelL-55/blob/main/img/2.jpeg
+https://github.com/Leooliprado/robo_de_mesa_miuly-oelL-55/blob/main/img/3.jpeg
+https://github.com/Leooliprado/robo_de_mesa_miuly-oelL-55/blob/main/img/4.jpeg
+https://github.com/Leooliprado/robo_de_mesa_miuly-oelL-55/blob/main/img/5.jpeg
+
+---
+
+## Esquema Elétrico
+
+https://github.com/Leooliprado/robo_de_mesa_miuly-oelL-55/blob/main/img/arduino-dht22-sensor-wiring-diagram.jpg
+
+### Esquema em Texto:
+
+**Botão:**
+     D3 --------- GND
+
+**Buzzer:**
+     D2 ---- (+) BUZZER (-) ---- GND
+
+**LCD I2C:**
+     A4 ---- SDA
+     A5 ---- SCL
+     5V ---- VCC
+    GND ---- GND
 
